@@ -14,6 +14,7 @@ https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Me.Encanta.Ser.Un.Fantasma.-.Ep.6.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 7
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Cabalgando.En.La.Pradera.-.Ep.7.480P.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 8
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.El.Secreto.Del.Nilo.-.Ep.8.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 9
@@ -36,18 +37,23 @@ https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.La.Carrera.Alrededor.Del.Mundo.-.Ep.17.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 18
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Detectives.De.Monstruos.-.Ep.18.480P.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 19
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.La.Fiesta.De.La.Cueva.-.Ep.19.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 20
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.La.Fiesta.De.Te.-.Ep.20.480P.mp4
 #EXTGRP:TEMPORADA 2
 
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 21
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Mision.a.Marte.-.Ep.21.480P.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 22
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.El.Pay.Samurai.-.Ep.22.480P.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 23
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Me.das.miedo.-.Ep.23.480P.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 24
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Quien.lo.hizo_.-.Ep.24.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP 25
@@ -98,66 +104,67 @@ https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los
  #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP47
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Viaje.Al.Centro.De.La.Tierra.-.Ep.47.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP48
-https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Los.Titulares.del.Dia.-.Ep.48.480P.mp4 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP49
+https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Los.Titulares.del.Dia.-.Ep.48.480P.mp4 
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP49
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.La.Historia.de.Los.Cabelleros.Valienttes.Parte.1.-.Ep.49.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP50
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.La.Historia.de.Los.Cabelleros.Valienttes.Parte.2.-.Ep.50.480P.mp4 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP51
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Le.Maestro.del.Disfraz.-.Ep.51.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP52
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Duelo.on.el.Monte.Olimpo.-.Ep.52.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP53
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP53
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.La.Carrera.de.Los.Delfines.-.Ep.53.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP54
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.El.Mejor.Amigo.del.Cavernicola.-.Ep.54.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP55
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP55
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Los.Ayudantes.del.Espacio.-.Ep.55.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP56
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Robin.Hood_.El.Limpio.-.Ep.56.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP57
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP57
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Escape.de.la.Aldea.Magica.-.Ep.57.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP58
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Camparnento.Pirata.-.Ep.58.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP59
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP59
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Los.Dos.Mosqueteros.-.Ep.59.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP60
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.La.Recuperadora.-.Ep.60.480P.mp4
 #EXTGRP:TEMPORADA 4
 
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP61
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP61
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Los.Robots.Enloquecen.parte.1.-.Ep.61.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP62
-https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Los.Robots.Enloquecen.parte.2.-.Ep.62.480P.mp4 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP63
+https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Los.Robots.Enloquecen.parte.2.-.Ep.62.480P.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP63
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Alcancen.a.ese.tren_.-.Ep.63.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP64
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.El.ataque.del.gusano.de.15.metros.-.Ep.64.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP65
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP65
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Dragon.Express.-.Ep.65.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP66
-https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Chica.Flor.-.Ep.66.480P.mp4 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP67
+https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Chica.Flor.-.Ep.66.480P.mp4#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP67
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.El.fantasma.gracioso.-.Ep.67.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP68
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Sigue.la.pluma.-.Ep.68.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP69
-https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Escape.-.Ep.69.480P.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP70
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP69
+https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Escape.-.Ep.69.480P.mp4#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP70
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Los.duendes.de.accion.salvan.la.noche.buena.-.Ep.70.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP71
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP71
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Los.galicticos.-.Ep.71.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP72
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Por.todos.los.calcetines_.-.Ep.72.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP73
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP73
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.El.Maromero.-.Ep.73.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP74
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Elefanta.huyendo.-.Ep.74.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP75
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP75
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.La.Patienta.Migica.-.Ep.75.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP76
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Pablo.y.las.Bellotas.-.Ep.76.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP77
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP77
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.El.fabuloso.super.equipo.-.Ep.77.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP78
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.El.Cafe.Osa.Mayor.-.Ep.78.480P.mp4
- #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP79
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP79
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.Los.increibles.Saltinis.-.Ep.79.480P.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qph2MAw82C2DTQcuzRQdaglo9eU.jpg", EP80
 https://github.com/HECTHINHOXD/SERIES-PELIS-BFLIX/releases/download/Los-back/Los.Backyardigans_.La.historia.del.Dragon.no.tan.bueno.-.Ep.80.480P.mp4
